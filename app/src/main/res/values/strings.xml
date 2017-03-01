@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="api_key">29ea482399c47b2d1f76936ba01330aa</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="released_textview">"Released "</string>
+    <string name="rating">"Rating "</string>
+    <string name="displays_poster_image">Displays Poster Image</string>
+</resources>
